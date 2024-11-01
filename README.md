@@ -62,6 +62,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Yutsss/Yutsss/output/snake.svg" alt="Snake animation" />
+
+###
+
 <img align="left" height="" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMxOGttaWtuejZobm53Z3Z5YWNiYm1iZmM4dnR3N3plbm0wN25oeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LZ5vlsR35s51qNWJxB/giphy.webp"  />
 
 ###
@@ -74,9 +78,5 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31q67fko54h7sh4j27ibyhkg5qfe&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Yutsss/Yutsss/output/snake.svg" alt="Snake animation" />
 
 ###
