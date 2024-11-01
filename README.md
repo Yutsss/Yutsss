@@ -66,7 +66,7 @@
 
 ###
 
-<br>
+<br clear="both">
 
 <div align="left">
   <a href="https://open.spotify.com/user/31q67fko54h7sh4j27ibyhkg5qfe">
