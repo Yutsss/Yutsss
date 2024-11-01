@@ -78,3 +78,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/yutsss/yutsss/output/snake.svg" alt="Snake animation" />  
+
+###
