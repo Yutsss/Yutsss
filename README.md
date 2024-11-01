@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning backend development and network/cloud technologies.<br><br>👯 I’m looking to collaborate on backend projects.<br><br>⚡ Fun fact:<br><br>- I hate coding frontend.<br>- Of course. i hate css.<br>- I can't center a div.<br>- I’m addicted to troubleshooting and solving tough bugs!<br>- No caffeine, no code.<br>- No smoke, no code.<br>- Oh, and I'm also a gym rat! 💪</p>
+<p align="left">🌱 I’m currently learning backend development and network/cloud technologies.<br><br>👯 I’m looking to collaborate on backend projects.<br><br>⚡ Fun fact:<br><br>- I hate coding frontend 😤.<br>- Of course. i hate css 🎨🚫.<br>- I can't center a div 🤷‍♂️🎯.<br>- I’m addicted to troubleshooting and solving tough bugs 🐛🔧.<br>- No caffeine, no code ☕.<br>- No smoke, no code 🚬.<br>- Oh, and I'm also a gym rat! 💪</p>
 
 ###
 
