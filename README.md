@@ -4,6 +4,8 @@
 
 <img align="left" height="" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMxOGttaWtuejZobm53Z3Z5YWNiYm1iZmM4dnR3N3plbm0wN25oeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LZ5vlsR35s51qNWJxB/giphy.webp"  />
 
+<br>
+
 ###
 
 <p align="left">🌱 I’m currently learning backend development and network/cloud technologies.<br><br>👯 I’m looking to collaborate on backend projects.<br><br>⚡ Fun fact:<br><br>- I hate coding frontend.<br>- Of course. i hate css.<br>- I can't center a div.<br>- I’m addicted to troubleshooting and solving tough bugs!<br>- No caffeine, no code.<br>- No smoke, no code.<br>- Oh, and I'm also a gym rat! 💪</p>
