@@ -27,5 +27,6 @@ jobs:
           SHOW_TIMELINE: "False"
           SHOW_LANGUAGE: "True"
           SHOW_UPDATED_DATE: "False"
+          TIME_RANGE: all_time
           
           
