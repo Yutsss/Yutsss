@@ -48,7 +48,9 @@
 
 ###
 
-<figure><embed src="https://wakatime.com/share/@21c4bf47-0812-4f81-9ccc-4a54039627be/6d72ec51-4a58-4389-9cf6-ba792935aea8.svg"></embed></figure>
+<figure>
+  <embed src="https://wakatime.com/share/@21c4bf47-0812-4f81-9ccc-4a54039627be/6d72ec51-4a58-4389-9cf6-ba792935aea8.svg"></embed>
+</figure>
 
 ###
 
