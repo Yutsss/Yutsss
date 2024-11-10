@@ -48,6 +48,10 @@
 
 ###
 
+<figure><embed src="https://wakatime.com/share/@21c4bf47-0812-4f81-9ccc-4a54039627be/6d72ec51-4a58-4389-9cf6-ba792935aea8.svg"></embed></figure>
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/yuttt.sssss/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
