@@ -15,7 +15,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
 
@@ -33,24 +33,12 @@ Bash                     18 mins             ░░░░░░░░░░░�
 VS Code                  17 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
-
-```text
-HTML                     12 repos            ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-PHP                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-```
-
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Yutsss/Yutsss/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2024 22:47:31 UTC
+ Last Updated on 10/11/2024 23:02:45 UTC
 <!--END_SECTION:waka-->
 
 ###
