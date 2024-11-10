@@ -48,9 +48,11 @@
 
 ###
 
-<figure>
-  <embed src="https://wakatime.com/share/@21c4bf47-0812-4f81-9ccc-4a54039627be/6d72ec51-4a58-4389-9cf6-ba792935aea8.svg"></embed>
-</figure>
+<div align="left">
+  <figure>
+    <embed src="https://wakatime.com/share/@21c4bf47-0812-4f81-9ccc-4a54039627be/6d72ec51-4a58-4389-9cf6-ba792935aea8.svg"></embed>
+  </figure>
+</div>
 
 ###
 
@@ -67,9 +69,9 @@
 </div>
 
 ###
-<!--START_SECTION:waka-->
+
 <img src="https://raw.githubusercontent.com/Yutsss/Yutsss/output/snake.svg" alt="Snake animation" />
-<!--END_SECTION:waka-->
+
 ###
 
 <img align="left" height="" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMxOGttaWtuejZobm53Z3Z5YWNiYm1iZmM4dnR3N3plbm0wN25oeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LZ5vlsR35s51qNWJxB/giphy.webp"  />
