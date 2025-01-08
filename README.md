@@ -85,10 +85,6 @@ JSON             4 hrs 24 mins   ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 ###
 
-<img align="left" height="" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMxOGttaWtuejZobm53Z3Z5YWNiYm1iZmM4dnR3N3plbm0wN25oeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LZ5vlsR35s51qNWJxB/giphy.webp"  />
-
-###
-
 <br clear="both">
 <br clear="both">
 
