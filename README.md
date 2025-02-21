@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2024 - To: 18 February 2025
+From: 01 November 2024 - To: 19 February 2025
 
-Total Time: 197 hrs 20 mins
+Total Time: 199 hrs 53 mins
 
-TypeScript       89 hrs 34 mins  ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   44.19 %
-Go               32 hrs 43 mins  ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   16.14 %
-JSON             9 hrs 49 mins   ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   04.84 %
-Prisma           7 hrs 11 mins   ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   03.54 %
+TypeScript        89 hrs 34 mins  ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   43.64 %
+Go                34 hrs 37 mins  ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   16.87 %
+JSON              9 hrs 49 mins   ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   04.78 %
+Prisma            7 hrs 11 mins   ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   03.50 %
 ```
 
 <!--END_SECTION:waka-->
